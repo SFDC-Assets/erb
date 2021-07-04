@@ -1,0 +1,501 @@
+External_Id__c,AccountSource,Industry,Rating,Type,AnnualRevenue,Credit_Score__c,Days_Since_Last_Purchase__c,Transactions__c,NumberOfEmployees,Name
+0,Web,Finance,Warm,Installation Partner,17437.27,484.5,156.0,12,730,Web-00000-0
+1,Partner Referral,Telecommunications,Cold,Customer - Direct,42929.55,261.77,390.0,15,16,Partner Referral-00000-1
+2,Partner Referral,Agriculture,Warm,Customer - Channel,27971.22,459.76,300.0,17,189,Partner Referral-00000-2
+3,Purchased List,Finance,Hot,Customer - Channel,42271.65,221.39,273.0,17,513,Purchased List-00000-3
+4,Purchased List,Finance,Warm,Prospect,52333.9,184.5,223.5,16,609,Purchased List-00000-4
+5,Partner Referral,Construction,Hot,Installation Partner,63574.58,284.35,84.0,15,631,Partner Referral-00000-5
+6,Phone Inquiry,Construction,Warm,Installation Partner,85578.1,95.52,34.5,18,133,Phone Inquiry-00000-6
+7,Web,Finance,Unrated,Installation Partner,5630.88,277.93,219.0,20,554,Web-00000-7
+8,Purchased List,Telecommunications,Unrated,Customer - Channel,34166.19,288.41,385.5,11,391,Purchased List-00000-8
+9,Web,Telecommunications,Cold,Prospect,4180.39,348.31,340.5,13,544,Web-00000-9
+10,Other,Machinery,Hot,Other,68186.65,551.22,138.0,12,70,Other-00000-10
+11,Other,Construction,Cold,Customer - Direct,69058.7,50.57,43.5,14,694,Other-00000-11
+12,Partner Referral,Construction,Warm,Customer - Direct,76968.31,510.69,75.0,11,130,Partner Referral-00000-12
+13,Web,Construction,Cold,Installation Partner,33633.02,584.4,282.0,14,77,Web-00000-13
+14,Other,Agriculture,Unrated,Prospect,24574.06,211.06,102.0,22,474,Other-00000-14
+15,Web,Machinery,Unrated,Installation Partner,66774.05,472.67,196.5,14,135,Web-00000-15
+16,Other,Agriculture,Hot,Customer - Direct,4302.65,477.88,241.5,18,388,Other-00000-16
+17,Phone Inquiry,Construction,Hot,Customer - Channel,35870.27,280.85,115.5,22,223,Phone Inquiry-00000-17
+18,Purchased List,Construction,Hot,Customer - Direct,54936.65,477.87,79.5,18,310,Purchased List-00000-18
+19,Phone Inquiry,Machinery,Cold,Customer - Direct,25651.94,443.33,277.5,19,133,Phone Inquiry-00000-19
+20,Purchased List,Finance,Warm,Customer - Direct,40468.87,473.08,228.0,18,12,Purchased List-00000-20
+21,Other,Finance,Unrated,Customer - Channel,18198.26,414.12,178.5,21,185,Other-00000-21
+22,Web,Telecommunications,Unrated,Prospect,63116.96,372.55,169.5,14,513,Web-00000-22
+23,Phone Inquiry,Construction,Warm,Prospect,19876.91,610.83,115.5,11,614,Phone Inquiry-00000-23
+24,Other,Machinery,Warm,Installation Partner,59310.91,317.3,138.0,11,680,Other-00000-24
+25,Partner Referral,Construction,Warm,Other,3577.11,459.75,291.0,18,302,Partner Referral-00000-25
+26,Partner Referral,Agriculture,Warm,Prospect,48101.1,257.12,52.5,20,499,Partner Referral-00000-26
+27,Web,Agriculture,Primer,Prospect,36656.63,494.48,286.5,16,163,Web-00000-27
+28,Purchased List,Machinery,Hot,Prospect,49592.08,342.72,102.0,17,579,Purchased List-00000-28
+29,Web,Agriculture,Unrated,Other,42892.91,209.09,160.5,21,408,Web-00000-29
+30,Phone Inquiry,Finance,Cold,Customer - Channel,33495.39,331.83,268.5,14,620,Phone Inquiry-00000-30
+31,Partner Referral,Construction,Warm,Installation Partner,4880.14,369.68,412.5,13,179,Partner Referral-00000-31
+32,Web,Agriculture,Primer,Customer - Channel,27247.73,482.24,178.5,13,658,Web-00000-32
+33,Other,Telecommunications,Warm,Installation Partner,62224.99,45.44,169.5,18,462,Other-00000-33
+34,Other,Agriculture,Hot,Other,22767.73,360.87,120.0,13,833,Other-00000-34
+35,Web,Telecommunications,Hot,Customer - Channel,51479.33,452.12,313.5,11,203,Web-00000-35
+36,Purchased List,Telecommunications,Hot,Customer - Channel,47868.86,319.57,250.5,17,389,Purchased List-00000-36
+37,Web,Telecommunications,Warm,Installation Partner,38821.38,174.33,300.0,13,657,Web-00000-37
+38,Phone Inquiry,Construction,Hot,Prospect,26821.0,227.61,255.0,20,455,Phone Inquiry-00000-38
+39,Purchased List,Agriculture,Hot,Prospect,25335.12,214.06,61.5,24,194,Purchased List-00000-39
+40,Other,Construction,Unrated,Customer - Channel,29759.62,421.08,282.0,18,296,Other-00000-40
+41,Phone Inquiry,Agriculture,Cold,Prospect,30415.27,182.95,228.0,19,555,Phone Inquiry-00000-41
+42,Partner Referral,Finance,Unrated,Installation Partner,48329.86,358.98,241.5,17,427,Partner Referral-00000-42
+43,Purchased List,Construction,Hot,Customer - Direct,11881.85,312.71,169.5,17,743,Purchased List-00000-43
+44,Other,Machinery,Warm,Customer - Channel,47126.85,506.34,93.0,18,336,Other-00000-44
+45,Purchased List,Construction,Hot,Prospect,55591.8,247.45,223.5,18,405,Purchased List-00000-45
+46,Partner Referral,Finance,Primer,Customer - Channel,12740.54,472.17,93.0,17,660,Partner Referral-00000-46
+47,Other,Finance,Cold,Customer - Channel,55724.07,414.62,241.5,12,471,Other-00000-47
+48,Purchased List,Machinery,Unrated,Installation Partner,22637.21,140.18,358.5,17,440,Purchased List-00000-48
+49,Purchased List,Construction,Primer,Customer - Channel,42939.57,294.6,286.5,19,181,Purchased List-00000-49
+50,Partner Referral,Finance,Cold,Customer - Direct,32669.54,321.94,133.5,13,824,Partner Referral-00000-50
+51,Other,Construction,Primer,Installation Partner,63000.89,146.21,336.0,15,129,Other-00000-51
+52,Other,Machinery,Hot,Other,52564.96,539.41,241.5,14,12,Other-00000-52
+53,Phone Inquiry,Machinery,Unrated,Other,25871.07,310.53,264.0,18,467,Phone Inquiry-00000-53
+54,Web,Telecommunications,Hot,Prospect,4926.27,795.96,97.5,12,26,Web-00000-54
+55,Purchased List,Telecommunications,Primer,Installation Partner,37612.38,179.34,201.0,17,677,Purchased List-00000-55
+56,Phone Inquiry,Machinery,Cold,Installation Partner,10606.96,760.87,178.5,11,32,Phone Inquiry-00000-56
+57,Purchased List,Telecommunications,Primer,Prospect,72784.87,200.33,264.0,13,335,Purchased List-00000-57
+58,Partner Referral,Agriculture,Primer,Other,91173.27,73.06,138.0,12,346,Partner Referral-00000-58
+59,Partner Referral,Construction,Hot,Installation Partner,22356.25,464.81,228.0,13,634,Partner Referral-00000-59
+60,Partner Referral,Telecommunications,Primer,Customer - Channel,41843.43,151.53,349.5,18,171,Partner Referral-00000-60
+61,Other,Agriculture,Unrated,Customer - Channel,64796.8,344.2,88.5,12,626,Other-00000-61
+62,Phone Inquiry,Machinery,Warm,Customer - Direct,41828.83,304.05,187.5,18,559,Phone Inquiry-00000-62
+63,Purchased List,Finance,Primer,Customer - Direct,62869.76,387.42,120.0,17,389,Purchased List-00000-63
+64,Web,Finance,Hot,Other,50116.31,320.09,214.5,18,381,Web-00000-64
+65,Purchased List,Agriculture,Primer,Prospect,63298.64,265.87,147.0,20,199,Purchased List-00000-65
+66,Partner Referral,Finance,Unrated,Other,21359.96,316.19,268.5,21,42,Partner Referral-00000-66
+67,Purchased List,Machinery,Cold,Customer - Channel,62758.04,283.08,183.0,18,316,Purchased List-00000-67
+68,Other,Telecommunications,Warm,Customer - Channel,60813.62,161.23,363.0,12,206,Other-00000-68
+69,Other,Construction,Cold,Other,66678.16,239.92,196.5,15,498,Other-00000-69
+70,Purchased List,Construction,Unrated,Installation Partner,10727.22,416.25,277.5,18,371,Purchased List-00000-70
+71,Web,Telecommunications,Cold,Prospect,13322.11,75.0,30.0,22,619,Web-00000-71
+72,Other,Machinery,Primer,Installation Partner,44638.62,113.87,309.0,14,606,Other-00000-72
+73,Partner Referral,Telecommunications,Unrated,Other,35647.08,23.44,196.5,18,698,Partner Referral-00000-73
+74,Partner Referral,Telecommunications,Cold,Prospect,30153.67,121.85,331.5,13,636,Partner Referral-00000-74
+75,Other,Telecommunications,Primer,Prospect,10352.15,416.34,129.0,19,597,Other-00000-75
+76,Phone Inquiry,Agriculture,Primer,Prospect,41743.32,315.04,277.5,13,587,Phone Inquiry-00000-76
+77,Phone Inquiry,Construction,Unrated,Prospect,7538.79,363.11,210.0,21,372,Phone Inquiry-00000-77
+78,Purchased List,Telecommunications,Cold,Prospect,48723.9,184.76,133.5,17,683,Purchased List-00000-78
+79,Phone Inquiry,Agriculture,Unrated,Prospect,44907.79,453.23,66.0,16,582,Phone Inquiry-00000-79
+80,Other,Telecommunications,Unrated,Customer - Direct,53111.37,170.44,34.5,11,836,Other-00000-80
+81,Web,Finance,Primer,Customer - Direct,3930.56,310.58,210.0,19,580,Web-00000-81
+82,Web,Finance,Cold,Installation Partner,21236.46,416.96,57.0,15,767,Web-00000-82
+83,Phone Inquiry,Machinery,Hot,Customer - Direct,52948.64,342.49,124.5,19,351,Phone Inquiry-00000-83
+84,Partner Referral,Machinery,Unrated,Installation Partner,87335.76,100.8,237.0,10,193,Partner Referral-00000-84
+85,Partner Referral,Machinery,Cold,Customer - Channel,44756.74,101.87,268.5,10,726,Partner Referral-00000-85
+86,Other,Telecommunications,Cold,Prospect,38745.94,99.81,309.0,18,427,Other-00000-86
+87,Web,Finance,Warm,Installation Partner,66343.23,157.6,286.5,14,392,Web-00000-87
+88,Purchased List,Agriculture,Hot,Customer - Direct,13175.5,379.91,403.5,14,85,Purchased List-00000-88
+89,Partner Referral,Finance,Warm,Prospect,39036.39,428.29,241.5,10,611,Partner Referral-00000-89
+90,Partner Referral,Telecommunications,Hot,Prospect,35705.7,586.18,264.0,13,267,Partner Referral-00000-90
+91,Other,Agriculture,Warm,Installation Partner,38405.33,537.99,169.5,12,558,Other-00000-91
+92,Phone Inquiry,Finance,Primer,Customer - Direct,32101.37,497.5,309.0,15,239,Phone Inquiry-00000-92
+93,Partner Referral,Machinery,Unrated,Other,76227.02,105.12,295.5,13,226,Partner Referral-00000-93
+94,Purchased List,Construction,Unrated,Installation Partner,61790.1,203.49,169.5,14,647,Purchased List-00000-94
+95,Partner Referral,Telecommunications,Primer,Prospect,40985.77,404.17,268.5,14,496,Partner Referral-00000-95
+96,Partner Referral,Finance,Hot,Prospect,53728.33,173.68,282.0,16,437,Partner Referral-00000-96
+97,Partner Referral,Machinery,Unrated,Customer - Channel,43103.03,286.26,327.0,14,454,Partner Referral-00000-97
+98,Other,Telecommunications,Cold,Other,14853.09,542.56,129.0,15,619,Other-00000-98
+99,Phone Inquiry,Machinery,Unrated,Customer - Channel,9231.16,412.23,160.5,21,342,Phone Inquiry-00000-99
+100,Web,Machinery,Unrated,Customer - Channel,16512.7,256.54,318.0,20,221,Web-00000-100
+101,Web,Telecommunications,Unrated,Prospect,39974.59,499.83,57.0,16,559,Web-00000-101
+102,Web,Machinery,Unrated,Other,66425.35,510.54,214.5,12,63,Web-00000-102
+103,Other,Machinery,Cold,Other,37488.22,320.56,214.5,19,465,Other-00000-103
+104,Other,Telecommunications,Primer,Installation Partner,71604.09,412.01,205.5,11,317,Other-00000-104
+105,Partner Referral,Agriculture,Cold,Customer - Channel,66257.23,62.51,300.0,15,359,Partner Referral-00000-105
+106,Purchased List,Telecommunications,Primer,Customer - Channel,8166.67,276.29,291.0,14,704,Purchased List-00000-106
+107,Partner Referral,Telecommunications,Hot,Customer - Direct,54981.7,445.23,255.0,10,415,Partner Referral-00000-107
+108,Partner Referral,Agriculture,Primer,Customer - Direct,42762.53,210.15,277.5,15,603,Partner Referral-00000-108
+109,Purchased List,Construction,Cold,Customer - Channel,70281.57,234.64,142.5,18,329,Purchased List-00000-109
+110,Purchased List,Construction,Primer,Other,24206.09,292.14,210.0,19,524,Purchased List-00000-110
+111,Other,Machinery,Unrated,Customer - Channel,35372.1,111.62,34.5,19,739,Other-00000-111
+112,Purchased List,Finance,Unrated,Installation Partner,43938.69,332.01,160.5,21,12,Purchased List-00000-112
+113,Purchased List,Construction,Cold,Other,79318.06,321.77,97.5,16,238,Purchased List-00000-113
+114,Partner Referral,Machinery,Unrated,Customer - Channel,15673.89,437.39,318.0,18,22,Partner Referral-00000-114
+115,Other,Construction,Cold,Customer - Direct,7922.08,616.53,93.0,18,314,Other-00000-115
+116,Partner Referral,Machinery,Hot,Other,59636.33,381.52,102.0,17,455,Partner Referral-00000-116
+117,Phone Inquiry,Machinery,Primer,Installation Partner,54170.71,389.31,75.0,17,499,Phone Inquiry-00000-117
+118,Other,Agriculture,Unrated,Other,19822.11,502.5,318.0,13,387,Other-00000-118
+119,Other,Machinery,Warm,Installation Partner,25717.55,401.36,178.5,20,331,Other-00000-119
+120,Phone Inquiry,Agriculture,Warm,Other,51172.93,249.38,264.0,10,636,Phone Inquiry-00000-120
+121,Purchased List,Machinery,Warm,Customer - Channel,31707.99,530.47,187.5,13,568,Purchased List-00000-121
+122,Other,Finance,Primer,Other,3950.44,138.48,322.5,19,425,Other-00000-122
+123,Purchased List,Agriculture,Cold,Customer - Direct,30518.76,543.99,264.0,13,406,Purchased List-00000-123
+124,Partner Referral,Agriculture,Warm,Installation Partner,22761.38,540.35,223.5,17,311,Partner Referral-00000-124
+125,Web,Agriculture,Unrated,Other,69611.5,301.37,138.0,17,377,Web-00000-125
+126,Purchased List,Construction,Primer,Prospect,77360.11,462.28,138.0,13,104,Purchased List-00000-126
+127,Web,Construction,Warm,Prospect,15979.9,315.35,309.0,11,675,Web-00000-127
+128,Purchased List,Construction,Cold,Customer - Direct,60373.95,550.34,115.5,12,370,Purchased List-00000-128
+129,Purchased List,Finance,Primer,Customer - Direct,16945.74,425.9,300.0,19,64,Purchased List-00000-129
+130,Purchased List,Agriculture,Cold,Customer - Direct,55731.97,415.14,205.5,18,217,Purchased List-00000-130
+131,Purchased List,Machinery,Primer,Customer - Direct,7172.97,243.18,313.5,18,521,Purchased List-00000-131
+132,Web,Telecommunications,Hot,Other,56895.79,24.15,223.5,18,445,Web-00000-132
+133,Purchased List,Finance,Unrated,Installation Partner,17477.4,554.48,102.0,11,704,Purchased List-00000-133
+134,Web,Machinery,Hot,Customer - Channel,15757.26,371.66,403.5,14,70,Web-00000-134
+135,Other,Construction,Cold,Installation Partner,19067.55,615.8,79.5,16,452,Other-00000-135
+136,Purchased List,Finance,Primer,Installation Partner,4822.91,210.34,228.0,22,319,Purchased List-00000-136
+137,Purchased List,Machinery,Hot,Customer - Channel,64338.67,62.0,367.5,12,19,Purchased List-00000-137
+138,Purchased List,Finance,Unrated,Customer - Direct,72355.88,177.35,237.0,13,454,Purchased List-00000-138
+139,Other,Telecommunications,Hot,Customer - Direct,2077.16,649.33,124.5,18,130,Other-00000-139
+140,Purchased List,Machinery,Warm,Installation Partner,14155.77,548.92,174.0,11,659,Purchased List-00000-140
+141,Web,Construction,Warm,Prospect,26803.37,596.53,219.0,17,10,Web-00000-141
+142,Purchased List,Machinery,Warm,Customer - Channel,42309.46,427.26,246.0,18,262,Purchased List-00000-142
+143,Web,Agriculture,Hot,Installation Partner,6576.18,360.42,142.5,19,647,Web-00000-143
+144,Web,Finance,Hot,Customer - Direct,64774.38,341.49,246.0,16,203,Web-00000-144
+145,Web,Agriculture,Cold,Installation Partner,23054.81,463.14,259.5,18,254,Web-00000-145
+146,Partner Referral,Agriculture,Warm,Other,45363.9,503.3,295.5,13,214,Partner Referral-00000-146
+147,Purchased List,Telecommunications,Warm,Prospect,60731.92,331.52,223.5,16,367,Purchased List-00000-147
+148,Phone Inquiry,Machinery,Warm,Installation Partner,28157.14,632.75,205.5,16,104,Phone Inquiry-00000-148
+149,Partner Referral,Agriculture,Unrated,Prospect,39893.68,214.65,349.5,12,526,Partner Referral-00000-149
+150,Web,Telecommunications,Primer,Customer - Direct,16816.67,469.05,300.0,18,115,Web-00000-150
+151,Phone Inquiry,Agriculture,Unrated,Prospect,40936.78,256.43,309.0,18,335,Phone Inquiry-00000-151
+152,Web,Construction,Cold,Prospect,34756.14,238.88,196.5,19,536,Web-00000-152
+153,Purchased List,Agriculture,Primer,Other,39277.93,58.67,282.0,21,205,Purchased List-00000-153
+154,Phone Inquiry,Agriculture,Cold,Customer - Direct,16703.89,367.8,363.0,13,432,Phone Inquiry-00000-154
+155,Web,Construction,Cold,Prospect,38208.48,325.94,192.0,18,567,Web-00000-155
+156,Other,Agriculture,Primer,Other,10437.46,372.23,241.5,16,631,Other-00000-156
+157,Partner Referral,Finance,Hot,Other,35778.26,145.68,399.0,13,392,Partner Referral-00000-157
+158,Purchased List,Agriculture,Hot,Customer - Channel,36265.31,455.59,345.0,13,211,Purchased List-00000-158
+159,Partner Referral,Finance,Cold,Installation Partner,47006.41,429.89,241.5,16,356,Partner Referral-00000-159
+160,Other,Finance,Warm,Customer - Direct,29432.74,197.31,174.0,21,453,Other-00000-160
+161,Phone Inquiry,Machinery,Warm,Other,28562.2,298.77,201.0,19,554,Phone Inquiry-00000-161
+162,Phone Inquiry,Machinery,Hot,Other,33326.23,341.13,39.0,19,625,Phone Inquiry-00000-162
+163,Purchased List,Machinery,Warm,Customer - Direct,23695.46,390.55,277.5,20,117,Purchased List-00000-163
+164,Phone Inquiry,Finance,Unrated,Customer - Direct,65858.91,224.44,124.5,14,628,Phone Inquiry-00000-164
+165,Phone Inquiry,Machinery,Warm,Prospect,65324.05,91.16,219.0,17,447,Phone Inquiry-00000-165
+166,Phone Inquiry,Construction,Unrated,Customer - Channel,77771.14,314.17,147.0,16,131,Phone Inquiry-00000-166
+167,Phone Inquiry,Construction,Warm,Customer - Channel,80218.38,100.4,255.0,15,90,Phone Inquiry-00000-167
+168,Web,Machinery,Unrated,Prospect,59411.27,549.5,183.0,12,260,Web-00000-168
+169,Phone Inquiry,Machinery,Hot,Customer - Direct,16107.04,540.2,358.5,10,94,Phone Inquiry-00000-169
+170,Purchased List,Telecommunications,Primer,Customer - Channel,47638.26,397.94,174.0,18,424,Purchased List-00000-170
+171,Partner Referral,Agriculture,Cold,Other,27108.21,573.51,223.5,14,441,Partner Referral-00000-171
+172,Phone Inquiry,Agriculture,Unrated,Other,61976.93,408.33,282.0,14,124,Phone Inquiry-00000-172
+173,Partner Referral,Construction,Cold,Installation Partner,15160.76,489.36,129.0,21,105,Partner Referral-00000-173
+174,Purchased List,Finance,Unrated,Other,52920.69,450.2,277.5,10,371,Purchased List-00000-174
+175,Partner Referral,Construction,Hot,Other,65096.02,439.9,79.5,16,339,Partner Referral-00000-175
+176,Web,Finance,Unrated,Prospect,1601.87,53.55,318.0,12,765,Web-00000-176
+177,Phone Inquiry,Machinery,Primer,Installation Partner,59572.87,267.0,358.5,11,112,Phone Inquiry-00000-177
+178,Other,Machinery,Hot,Customer - Channel,64411.16,226.55,349.5,12,82,Other-00000-178
+179,Purchased List,Construction,Primer,Prospect,9802.21,547.27,57.0,21,60,Purchased List-00000-179
+180,Phone Inquiry,Machinery,Primer,Customer - Direct,57888.43,142.04,264.0,19,72,Phone Inquiry-00000-180
+181,Purchased List,Construction,Cold,Customer - Channel,49276.59,69.54,192.0,12,793,Purchased List-00000-181
+182,Phone Inquiry,Construction,Cold,Installation Partner,48964.01,446.18,273.0,16,196,Phone Inquiry-00000-182
+183,Purchased List,Finance,Hot,Prospect,49994.1,149.28,192.0,18,548,Purchased List-00000-183
+184,Phone Inquiry,Construction,Warm,Customer - Direct,40344.29,480.12,187.5,19,17,Phone Inquiry-00000-184
+185,Phone Inquiry,Agriculture,Warm,Customer - Channel,77209.83,348.91,210.0,13,174,Phone Inquiry-00000-185
+186,Phone Inquiry,Telecommunications,Primer,Installation Partner,53071.3,461.89,196.5,18,46,Phone Inquiry-00000-186
+187,Purchased List,Machinery,Primer,Installation Partner,28879.8,93.54,205.5,19,641,Purchased List-00000-187
+188,Partner Referral,Construction,Warm,Other,2716.53,573.35,241.5,16,354,Partner Referral-00000-188
+189,Partner Referral,Finance,Hot,Installation Partner,10413.65,369.17,84.0,14,852,Partner Referral-00000-189
+190,Partner Referral,Telecommunications,Warm,Prospect,2148.58,382.0,318.0,17,375,Partner Referral-00000-190
+191,Web,Telecommunications,Hot,Other,42311.75,150.11,300.0,19,268,Web-00000-191
+192,Purchased List,Telecommunications,Primer,Prospect,50665.96,38.54,268.5,18,452,Purchased List-00000-192
+193,Web,Machinery,Primer,Installation Partner,22514.19,559.61,192.0,18,243,Web-00000-193
+194,Web,Telecommunications,Cold,Other,33604.0,551.67,39.0,15,572,Web-00000-194
+195,Partner Referral,Finance,Warm,Prospect,7856.9,249.75,300.0,20,353,Partner Referral-00000-195
+196,Web,Agriculture,Unrated,Installation Partner,33040.05,618.09,61.5,11,569,Web-00000-196
+197,Web,Telecommunications,Unrated,Installation Partner,60691.17,234.78,147.0,17,508,Web-00000-197
+198,Other,Telecommunications,Cold,Customer - Channel,73701.68,238.2,210.0,17,50,Other-00000-198
+199,Other,Telecommunications,Hot,Customer - Channel,14115.28,338.59,43.5,20,616,Other-00000-199
+200,Partner Referral,Construction,Warm,Installation Partner,42283.66,569.18,66.0,19,33,Partner Referral-00000-200
+201,Other,Finance,Primer,Customer - Direct,43390.57,453.88,174.0,19,291,Other-00000-201
+202,Partner Referral,Agriculture,Primer,Customer - Direct,10145.52,625.11,88.5,13,599,Partner Referral-00000-202
+203,Other,Construction,Warm,Other,44520.28,55.2,286.5,18,478,Other-00000-203
+204,Purchased List,Machinery,Primer,Prospect,30709.01,473.32,214.5,19,188,Purchased List-00000-204
+205,Phone Inquiry,Finance,Hot,Other,42380.31,216.64,66.0,10,879,Phone Inquiry-00000-205
+206,Other,Machinery,Warm,Prospect,24846.66,192.78,250.5,19,554,Other-00000-206
+207,Partner Referral,Construction,Warm,Prospect,32388.05,486.72,295.5,10,452,Partner Referral-00000-207
+208,Other,Finance,Warm,Installation Partner,41958.82,286.57,111.0,20,445,Other-00000-208
+209,Purchased List,Machinery,Unrated,Installation Partner,30717.56,452.55,246.0,17,434,Purchased List-00000-209
+210,Phone Inquiry,Construction,Warm,Customer - Channel,41433.11,540.66,291.0,13,79,Phone Inquiry-00000-210
+211,Phone Inquiry,Construction,Primer,Customer - Channel,24360.59,359.73,300.0,13,612,Phone Inquiry-00000-211
+212,Other,Finance,Unrated,Customer - Channel,26864.5,329.67,165.0,17,713,Other-00000-212
+213,Partner Referral,Telecommunications,Primer,Installation Partner,65534.91,359.45,120.0,13,560,Partner Referral-00000-213
+214,Phone Inquiry,Telecommunications,Unrated,Customer - Direct,30326.59,518.62,268.5,11,486,Phone Inquiry-00000-214
+215,Purchased List,Finance,Warm,Customer - Direct,48282.59,681.29,61.5,13,139,Purchased List-00000-215
+216,Purchased List,Construction,Warm,Prospect,50027.83,572.17,147.0,11,451,Purchased List-00000-216
+217,Partner Referral,Machinery,Primer,Installation Partner,16071.47,104.5,372.0,13,608,Partner Referral-00000-217
+218,Partner Referral,Finance,Unrated,Installation Partner,20087.59,465.81,214.5,18,404,Partner Referral-00000-218
+219,Purchased List,Machinery,Hot,Other,9334.8,232.27,367.5,19,31,Purchased List-00000-219
+220,Purchased List,Machinery,Hot,Customer - Channel,18389.75,470.14,309.0,14,439,Purchased List-00000-220
+221,Purchased List,Construction,Unrated,Customer - Channel,67287.39,411.74,52.5,17,268,Purchased List-00000-221
+222,Phone Inquiry,Telecommunications,Hot,Customer - Direct,58300.62,68.42,178.5,17,602,Phone Inquiry-00000-222
+223,Web,Finance,Cold,Prospect,10698.59,58.28,241.5,20,593,Web-00000-223
+224,Phone Inquiry,Construction,Primer,Other,44485.64,551.32,147.0,13,507,Phone Inquiry-00000-224
+225,Phone Inquiry,Telecommunications,Hot,Prospect,11499.68,438.4,219.0,13,709,Phone Inquiry-00000-225
+226,Partner Referral,Construction,Primer,Customer - Channel,50383.84,88.0,183.0,16,677,Partner Referral-00000-226
+227,Purchased List,Telecommunications,Primer,Customer - Channel,53262.22,473.03,241.5,13,391,Purchased List-00000-227
+228,Purchased List,Finance,Cold,Other,52660.63,214.89,291.0,19,71,Purchased List-00000-228
+229,Phone Inquiry,Agriculture,Warm,Customer - Channel,16590.42,194.51,291.0,20,435,Phone Inquiry-00000-229
+230,Partner Referral,Finance,Unrated,Prospect,27492.69,116.34,66.0,23,428,Partner Referral-00000-230
+231,Partner Referral,Finance,Warm,Customer - Channel,33790.35,319.15,309.0,15,513,Partner Referral-00000-231
+232,Purchased List,Finance,Unrated,Customer - Direct,35312.75,131.86,309.0,16,551,Purchased List-00000-232
+233,Web,Telecommunications,Primer,Installation Partner,30929.4,179.62,264.0,19,488,Web-00000-233
+234,Other,Telecommunications,Warm,Prospect,2534.46,388.7,286.5,12,666,Other-00000-234
+235,Partner Referral,Telecommunications,Unrated,Customer - Direct,62021.92,12.88,349.5,12,340,Partner Referral-00000-235
+236,Partner Referral,Machinery,Cold,Customer - Direct,9743.39,193.44,286.5,21,311,Partner Referral-00000-236
+237,Web,Finance,Warm,Installation Partner,3041.28,101.61,309.0,21,260,Web-00000-237
+238,Partner Referral,Construction,Hot,Customer - Direct,36260.24,643.19,124.5,13,419,Partner Referral-00000-238
+239,Partner Referral,Finance,Unrated,Prospect,50231.06,516.47,228.0,11,416,Partner Referral-00000-239
+240,Web,Finance,Warm,Installation Partner,56262.43,484.66,160.5,17,93,Web-00000-240
+241,Other,Finance,Cold,Customer - Direct,24551.07,476.97,138.0,17,560,Other-00000-241
+242,Phone Inquiry,Construction,Cold,Customer - Channel,6224.48,406.33,318.0,18,180,Phone Inquiry-00000-242
+243,Partner Referral,Machinery,Cold,Installation Partner,44579.78,415.98,147.0,20,142,Partner Referral-00000-243
+244,Web,Machinery,Warm,Installation Partner,57692.12,463.13,286.5,10,201,Web-00000-244
+245,Phone Inquiry,Telecommunications,Hot,Customer - Channel,6016.22,611.67,57.0,20,74,Phone Inquiry-00000-245
+246,Partner Referral,Machinery,Hot,Prospect,58956.0,137.69,133.5,13,756,Partner Referral-00000-246
+247,Phone Inquiry,Machinery,Unrated,Other,46870.73,290.69,205.5,20,290,Phone Inquiry-00000-247
+248,Partner Referral,Machinery,Cold,Customer - Channel,74885.63,197.25,129.0,18,211,Partner Referral-00000-248
+249,Partner Referral,Agriculture,Unrated,Customer - Direct,72118.81,361.5,183.0,13,391,Partner Referral-00000-249
+250,Web,Construction,Primer,Other,75829.45,411.05,214.5,12,43,Web-00000-250
+251,Purchased List,Telecommunications,Primer,Other,13546.99,139.36,66.0,21,629,Purchased List-00000-251
+252,Phone Inquiry,Agriculture,Warm,Installation Partner,58324.65,403.95,192.0,14,471,Phone Inquiry-00000-252
+253,Web,Agriculture,Unrated,Other,21258.65,661.23,201.0,16,134,Web-00000-253
+254,Phone Inquiry,Finance,Unrated,Installation Partner,71367.97,72.76,246.0,14,453,Phone Inquiry-00000-254
+255,Web,Telecommunications,Cold,Other,60437.5,302.75,255.0,11,510,Web-00000-255
+256,Web,Machinery,Cold,Installation Partner,53648.11,585.85,88.5,16,92,Web-00000-256
+257,Web,Agriculture,Hot,Installation Partner,23117.54,539.76,331.5,13,179,Web-00000-257
+258,Web,Telecommunications,Hot,Other,44331.94,570.91,75.0,18,122,Web-00000-258
+259,Purchased List,Machinery,Warm,Other,46947.97,218.92,241.5,19,407,Purchased List-00000-259
+260,Purchased List,Agriculture,Unrated,Installation Partner,65263.48,262.66,309.0,13,260,Purchased List-00000-260
+261,Other,Agriculture,Hot,Other,44204.33,534.29,111.0,14,526,Other-00000-261
+262,Phone Inquiry,Construction,Primer,Customer - Direct,43679.3,67.84,43.5,18,715,Phone Inquiry-00000-262
+263,Partner Referral,Telecommunications,Hot,Installation Partner,33446.0,313.86,129.0,19,615,Partner Referral-00000-263
+264,Purchased List,Telecommunications,Cold,Other,72285.23,450.32,79.5,14,333,Purchased List-00000-264
+265,Web,Construction,Cold,Installation Partner,18969.12,136.53,237.0,10,865,Web-00000-265
+266,Partner Referral,Finance,Primer,Other,44910.01,288.67,300.0,18,101,Partner Referral-00000-266
+267,Web,Machinery,Cold,Installation Partner,2256.73,41.62,282.0,19,576,Web-00000-267
+268,Phone Inquiry,Agriculture,Cold,Customer - Channel,23839.18,78.29,241.5,18,684,Phone Inquiry-00000-268
+269,Phone Inquiry,Agriculture,Unrated,Other,35655.13,445.25,201.0,17,459,Phone Inquiry-00000-269
+270,Phone Inquiry,Construction,Hot,Prospect,9783.69,426.77,336.0,11,518,Phone Inquiry-00000-270
+271,Web,Machinery,Warm,Other,29570.44,336.48,327.0,17,274,Web-00000-271
+272,Purchased List,Construction,Hot,Customer - Direct,56646.35,83.41,300.0,17,349,Purchased List-00000-272
+273,Purchased List,Telecommunications,Hot,Prospect,41859.5,42.09,291.0,19,369,Purchased List-00000-273
+274,Partner Referral,Finance,Unrated,Installation Partner,4754.95,104.98,385.5,13,569,Partner Referral-00000-274
+275,Purchased List,Machinery,Hot,Prospect,7020.38,594.3,178.5,18,318,Purchased List-00000-275
+276,Purchased List,Telecommunications,Cold,Installation Partner,65647.96,370.82,250.5,13,316,Purchased List-00000-276
+277,Partner Referral,Construction,Warm,Customer - Direct,52825.03,173.46,277.5,10,629,Partner Referral-00000-277
+278,Web,Finance,Unrated,Other,60365.7,530.28,165.0,15,36,Web-00000-278
+279,Purchased List,Telecommunications,Cold,Customer - Direct,73605.33,285.31,205.5,15,282,Purchased List-00000-279
+280,Phone Inquiry,Agriculture,Primer,Customer - Direct,53634.8,457.59,286.5,14,10,Phone Inquiry-00000-280
+281,Phone Inquiry,Telecommunications,Unrated,Customer - Channel,49378.76,97.77,318.0,18,247,Phone Inquiry-00000-281
+282,Phone Inquiry,Telecommunications,Cold,Customer - Direct,30334.61,167.92,381.0,10,531,Phone Inquiry-00000-282
+283,Other,Machinery,Unrated,Prospect,20011.97,403.51,295.5,15,506,Other-00000-283
+284,Web,Construction,Hot,Other,15963.05,527.7,250.5,18,193,Web-00000-284
+285,Phone Inquiry,Finance,Primer,Customer - Channel,69361.35,16.08,349.5,12,147,Phone Inquiry-00000-285
+286,Partner Referral,Finance,Cold,Other,15198.72,391.06,255.0,18,445,Partner Referral-00000-286
+287,Phone Inquiry,Machinery,Cold,Customer - Direct,75875.65,257.08,79.5,11,583,Phone Inquiry-00000-287
+288,Purchased List,Telecommunications,Hot,Installation Partner,48838.23,463.08,138.0,15,535,Purchased List-00000-288
+289,Partner Referral,Telecommunications,Hot,Installation Partner,28509.22,368.74,381.0,13,297,Partner Referral-00000-289
+290,Web,Finance,Cold,Customer - Direct,14461.04,292.59,156.0,23,72,Web-00000-290
+291,Web,Construction,Cold,Prospect,63370.39,291.85,129.0,20,186,Web-00000-291
+292,Phone Inquiry,Construction,Primer,Customer - Direct,28556.64,120.98,223.5,23,95,Phone Inquiry-00000-292
+293,Other,Finance,Cold,Customer - Direct,73439.26,328.23,34.5,18,118,Other-00000-293
+294,Web,Agriculture,Cold,Customer - Channel,54353.55,82.43,241.5,19,359,Web-00000-294
+295,Partner Referral,Machinery,Primer,Customer - Direct,47687.64,404.33,214.5,17,425,Partner Referral-00000-295
+296,Web,Telecommunications,Warm,Customer - Channel,58466.84,464.43,232.5,13,319,Web-00000-296
+297,Phone Inquiry,Agriculture,Unrated,Installation Partner,41905.26,610.8,192.0,15,94,Phone Inquiry-00000-297
+298,Phone Inquiry,Telecommunications,Unrated,Prospect,67017.36,218.95,88.5,16,551,Phone Inquiry-00000-298
+299,Purchased List,Telecommunications,Hot,Prospect,26422.79,443.78,246.0,20,30,Purchased List-00000-299
+300,Web,Agriculture,Warm,Customer - Direct,54227.21,427.13,84.0,15,588,Web-00000-300
+301,Phone Inquiry,Machinery,Hot,Prospect,47685.11,260.65,390.0,12,182,Phone Inquiry-00000-301
+302,Other,Construction,Cold,Other,45031.65,111.3,205.5,17,655,Other-00000-302
+303,Web,Finance,Hot,Customer - Channel,59414.48,492.82,115.5,12,502,Web-00000-303
+304,Phone Inquiry,Machinery,Cold,Other,44375.24,204.65,345.0,13,480,Phone Inquiry-00000-304
+305,Phone Inquiry,Agriculture,Unrated,Customer - Direct,62571.07,119.55,219.0,19,224,Phone Inquiry-00000-305
+306,Partner Referral,Machinery,Hot,Customer - Direct,34927.01,151.85,246.0,16,669,Partner Referral-00000-306
+307,Phone Inquiry,Agriculture,Warm,Customer - Channel,50670.22,88.08,282.0,18,359,Phone Inquiry-00000-307
+308,Phone Inquiry,Agriculture,Unrated,Installation Partner,73549.41,180.93,138.0,16,461,Phone Inquiry-00000-308
+309,Phone Inquiry,Agriculture,Unrated,Prospect,29452.05,500.39,88.5,17,545,Phone Inquiry-00000-309
+310,Partner Referral,Construction,Unrated,Customer - Channel,61386.87,291.18,142.5,14,625,Partner Referral-00000-310
+311,Phone Inquiry,Construction,Unrated,Customer - Channel,44679.95,173.8,88.5,17,738,Phone Inquiry-00000-311
+312,Other,Agriculture,Hot,Other,1481.89,164.97,246.0,20,569,Other-00000-312
+313,Partner Referral,Machinery,Unrated,Customer - Direct,81354.03,285.38,169.5,14,286,Partner Referral-00000-313
+314,Other,Telecommunications,Warm,Prospect,37673.16,146.87,286.5,18,504,Other-00000-314
+315,Partner Referral,Finance,Primer,Other,52397.82,66.89,88.5,19,618,Partner Referral-00000-315
+316,Other,Construction,Unrated,Prospect,18341.37,265.23,232.5,21,392,Other-00000-316
+317,Phone Inquiry,Telecommunications,Primer,Customer - Channel,46861.43,248.86,115.5,21,395,Phone Inquiry-00000-317
+318,Purchased List,Construction,Warm,Customer - Channel,5434.62,347.73,88.5,20,586,Purchased List-00000-318
+319,Partner Referral,Finance,Primer,Customer - Direct,22402.49,379.33,286.5,20,145,Partner Referral-00000-319
+320,Other,Agriculture,Cold,Other,41757.36,402.0,79.5,13,754,Other-00000-320
+321,Partner Referral,Machinery,Primer,Customer - Direct,43628.61,600.82,210.0,12,311,Partner Referral-00000-321
+322,Web,Construction,Cold,Installation Partner,15242.81,696.14,223.5,12,183,Web-00000-322
+323,Web,Construction,Cold,Installation Partner,9008.13,19.54,273.0,18,646,Web-00000-323
+324,Purchased List,Machinery,Warm,Installation Partner,7881.74,337.85,331.5,19,142,Purchased List-00000-324
+325,Partner Referral,Telecommunications,Unrated,Prospect,44220.31,453.19,156.0,19,320,Partner Referral-00000-325
+326,Purchased List,Telecommunications,Warm,Prospect,35989.18,524.43,160.5,17,416,Purchased List-00000-326
+327,Partner Referral,Finance,Warm,Installation Partner,73439.03,305.32,174.0,17,98,Partner Referral-00000-327
+328,Purchased List,Construction,Unrated,Installation Partner,53021.95,198.03,246.0,17,501,Purchased List-00000-328
+329,Other,Agriculture,Warm,Customer - Channel,49793.07,374.87,250.5,15,482,Other-00000-329
+330,Purchased List,Agriculture,Primer,Customer - Direct,43177.91,336.85,322.5,14,426,Purchased List-00000-330
+331,Phone Inquiry,Machinery,Cold,Customer - Direct,60339.71,388.37,102.0,16,494,Phone Inquiry-00000-331
+332,Phone Inquiry,Agriculture,Primer,Customer - Direct,45763.74,161.14,120.0,23,171,Phone Inquiry-00000-332
+333,Purchased List,Machinery,Unrated,Customer - Channel,92361.33,50.12,133.5,14,172,Purchased List-00000-333
+334,Web,Telecommunications,Cold,Customer - Direct,22084.24,108.06,282.0,22,18,Web-00000-334
+335,Purchased List,Telecommunications,Hot,Customer - Direct,15435.46,144.97,327.0,20,220,Purchased List-00000-335
+336,Other,Machinery,Cold,Customer - Channel,56749.65,45.85,205.5,11,735,Other-00000-336
+337,Web,Telecommunications,Unrated,Customer - Channel,15923.57,627.0,178.5,11,524,Web-00000-337
+338,Web,Construction,Cold,Installation Partner,34593.78,539.0,246.0,17,42,Web-00000-338
+339,Other,Finance,Warm,Prospect,21053.88,202.35,255.0,20,432,Other-00000-339
+340,Web,Finance,Hot,Customer - Channel,26269.41,358.18,84.0,22,269,Web-00000-340
+341,Other,Telecommunications,Warm,Customer - Channel,67759.15,300.88,228.0,14,422,Other-00000-341
+342,Web,Construction,Warm,Customer - Channel,77145.22,332.91,183.0,14,270,Web-00000-342
+343,Phone Inquiry,Agriculture,Warm,Customer - Direct,60631.22,441.7,30.0,19,165,Phone Inquiry-00000-343
+344,Partner Referral,Machinery,Hot,Installation Partner,15734.91,289.8,322.5,17,448,Partner Referral-00000-344
+345,Web,Finance,Warm,Other,21237.84,320.73,300.0,16,543,Web-00000-345
+346,Partner Referral,Machinery,Unrated,Prospect,3494.75,374.94,273.0,11,717,Partner Referral-00000-346
+347,Other,Finance,Primer,Customer - Direct,56012.51,225.16,205.5,19,306,Other-00000-347
+348,Other,Finance,Hot,Customer - Channel,6869.32,65.01,354.0,19,374,Other-00000-348
+349,Partner Referral,Construction,Hot,Installation Partner,46569.74,74.73,268.5,13,688,Partner Referral-00000-349
+350,Other,Construction,Primer,Installation Partner,55511.1,295.14,219.0,18,365,Other-00000-350
+351,Other,Machinery,Primer,Prospect,21370.64,488.35,286.5,13,505,Other-00000-351
+352,Purchased List,Construction,Primer,Prospect,44235.24,206.49,408.0,13,86,Purchased List-00000-352
+353,Partner Referral,Machinery,Warm,Customer - Channel,60225.94,221.16,165.0,19,371,Partner Referral-00000-353
+354,Other,Construction,Primer,Customer - Channel,40894.16,296.67,151.5,18,623,Other-00000-354
+355,Purchased List,Telecommunications,Hot,Installation Partner,64356.88,371.19,174.0,14,467,Purchased List-00000-355
+356,Partner Referral,Machinery,Primer,Customer - Direct,14874.87,243.23,376.5,17,320,Partner Referral-00000-356
+357,Phone Inquiry,Machinery,Hot,Customer - Channel,6035.89,113.5,412.5,18,33,Phone Inquiry-00000-357
+358,Purchased List,Construction,Primer,Customer - Direct,46822.4,532.64,138.0,18,128,Purchased List-00000-358
+359,Phone Inquiry,Finance,Warm,Installation Partner,5130.53,544.59,133.5,19,342,Phone Inquiry-00000-359
+360,Other,Agriculture,Hot,Customer - Channel,50885.13,42.04,34.5,23,221,Other-00000-360
+361,Other,Construction,Primer,Installation Partner,73415.67,307.51,286.5,11,85,Other-00000-361
+362,Partner Referral,Telecommunications,Cold,Prospect,18969.36,384.24,232.5,17,601,Partner Referral-00000-362
+363,Web,Finance,Unrated,Customer - Direct,50802.09,131.87,403.5,12,144,Web-00000-363
+364,Purchased List,Telecommunications,Primer,Other,57701.5,244.06,214.5,17,444,Purchased List-00000-364
+365,Purchased List,Finance,Warm,Prospect,40131.89,278.42,169.5,17,636,Purchased List-00000-365
+366,Purchased List,Telecommunications,Warm,Other,59252.09,229.31,57.0,18,569,Purchased List-00000-366
+367,Phone Inquiry,Agriculture,Hot,Installation Partner,43871.83,393.34,196.5,18,377,Phone Inquiry-00000-367
+368,Other,Finance,Warm,Customer - Channel,87024.45,114.08,246.0,12,33,Other-00000-368
+369,Phone Inquiry,Construction,Warm,Customer - Direct,19878.58,492.3,264.0,13,561,Phone Inquiry-00000-369
+370,Partner Referral,Agriculture,Cold,Prospect,75370.68,65.05,79.5,17,483,Partner Referral-00000-370
+371,Purchased List,Agriculture,Warm,Prospect,58591.4,421.25,66.0,11,638,Purchased List-00000-371
+372,Purchased List,Agriculture,Warm,Prospect,15021.63,307.34,367.5,14,483,Purchased List-00000-372
+373,Phone Inquiry,Machinery,Primer,Customer - Direct,14666.71,412.13,79.5,22,262,Phone Inquiry-00000-373
+374,Phone Inquiry,Machinery,Warm,Customer - Direct,37001.93,270.23,192.0,19,506,Phone Inquiry-00000-374
+375,Web,Machinery,Cold,Customer - Direct,58568.94,289.51,160.5,13,660,Web-00000-375
+376,Phone Inquiry,Construction,Cold,Prospect,61649.98,421.18,138.0,18,145,Phone Inquiry-00000-376
+377,Phone Inquiry,Finance,Primer,Installation Partner,39861.9,541.46,106.5,16,455,Phone Inquiry-00000-377
+378,Web,Machinery,Cold,Prospect,34668.85,605.66,57.0,18,286,Web-00000-378
+379,Partner Referral,Telecommunications,Hot,Installation Partner,54997.42,448.49,142.5,17,372,Partner Referral-00000-379
+380,Purchased List,Construction,Unrated,Prospect,33090.37,156.64,327.0,11,661,Purchased List-00000-380
+381,Purchased List,Finance,Hot,Customer - Channel,3239.29,437.15,385.5,12,282,Purchased List-00000-381
+382,Other,Telecommunications,Warm,Customer - Channel,9482.85,615.93,93.0,17,453,Other-00000-382
+383,Other,Telecommunications,Warm,Customer - Direct,1725.92,387.18,340.5,17,321,Other-00000-383
+384,Phone Inquiry,Finance,Primer,Other,58709.49,569.04,187.5,12,220,Phone Inquiry-00000-384
+385,Other,Machinery,Hot,Installation Partner,35767.46,496.86,93.0,12,693,Other-00000-385
+386,Partner Referral,Machinery,Primer,Customer - Direct,36779.31,392.4,237.0,17,472,Partner Referral-00000-386
+387,Other,Construction,Primer,Customer - Channel,2551.99,157.55,97.5,14,950,Other-00000-387
+388,Web,Agriculture,Hot,Other,40137.55,122.62,408.0,10,365,Web-00000-388
+389,Web,Agriculture,Unrated,Other,81564.31,136.28,120.0,11,539,Web-00000-389
+390,Web,Finance,Unrated,Installation Partner,58717.38,446.7,147.0,17,335,Web-00000-390
+391,Other,Machinery,Primer,Customer - Channel,53874.46,226.53,219.0,16,585,Other-00000-391
+392,Phone Inquiry,Agriculture,Cold,Customer - Channel,31720.92,29.78,358.5,15,532,Phone Inquiry-00000-392
+393,Partner Referral,Finance,Warm,Installation Partner,8215.65,23.18,426.0,16,196,Partner Referral-00000-393
+394,Web,Agriculture,Cold,Other,11298.93,53.48,372.0,14,589,Web-00000-394
+395,Partner Referral,Agriculture,Hot,Customer - Direct,65144.55,619.13,61.5,10,74,Partner Referral-00000-395
+396,Web,Machinery,Cold,Installation Partner,19851.78,29.27,111.0,19,776,Web-00000-396
+397,Other,Machinery,Hot,Customer - Channel,46383.67,286.45,354.0,12,390,Other-00000-397
+398,Purchased List,Construction,Warm,Prospect,51811.35,12.27,228.0,18,530,Purchased List-00000-398
+399,Partner Referral,Machinery,Cold,Installation Partner,43180.93,225.2,268.5,20,201,Partner Referral-00000-399
+400,Purchased List,Agriculture,Hot,Customer - Channel,50758.69,163.96,214.5,18,526,Purchased List-00000-400
+401,Other,Telecommunications,Warm,Customer - Direct,12536.78,616.5,205.5,13,473,Other-00000-401
+402,Partner Referral,Agriculture,Hot,Customer - Direct,54169.44,101.27,214.5,18,525,Partner Referral-00000-402
+403,Phone Inquiry,Finance,Warm,Customer - Channel,14268.27,84.94,129.0,12,958,Phone Inquiry-00000-403
+404,Other,Machinery,Hot,Customer - Channel,63254.11,135.6,57.0,13,754,Other-00000-404
+405,Partner Referral,Agriculture,Hot,Customer - Direct,8531.14,160.36,286.5,11,801,Partner Referral-00000-405
+406,Other,Machinery,Primer,Prospect,28871.47,413.17,129.0,17,654,Other-00000-406
+407,Phone Inquiry,Telecommunications,Warm,Installation Partner,24574.87,523.39,151.5,20,188,Phone Inquiry-00000-407
+408,Other,Finance,Primer,Customer - Direct,42775.8,456.26,129.0,18,464,Other-00000-408
+409,Partner Referral,Agriculture,Warm,Prospect,58149.73,30.64,223.5,18,435,Partner Referral-00000-409
+410,Other,Finance,Cold,Other,2745.24,204.28,322.5,21,73,Other-00000-410
+411,Purchased List,Machinery,Hot,Other,13303.65,517.05,322.5,14,300,Purchased List-00000-411
+412,Web,Finance,Warm,Other,67072.84,136.72,313.5,14,293,Web-00000-412
+413,Phone Inquiry,Agriculture,Unrated,Prospect,5062.57,493.67,160.5,20,307,Phone Inquiry-00000-413
+414,Purchased List,Machinery,Primer,Customer - Channel,51492.87,268.2,318.0,15,367,Purchased List-00000-414
+415,Phone Inquiry,Finance,Hot,Other,15528.31,185.46,232.5,23,159,Phone Inquiry-00000-415
+416,Web,Telecommunications,Unrated,Installation Partner,39244.58,570.82,84.0,11,599,Web-00000-416
+417,Phone Inquiry,Machinery,Unrated,Customer - Direct,42772.11,395.6,255.0,13,559,Phone Inquiry-00000-417
+418,Other,Agriculture,Unrated,Customer - Direct,54555.45,438.82,165.0,17,320,Other-00000-418
+419,Other,Finance,Hot,Installation Partner,29058.57,414.02,282.0,11,599,Other-00000-419
+420,Phone Inquiry,Finance,Primer,Customer - Channel,25821.23,490.77,291.0,15,387,Phone Inquiry-00000-420
+421,Partner Referral,Machinery,Hot,Customer - Channel,16951.25,107.85,111.0,18,793,Partner Referral-00000-421
+422,Partner Referral,Finance,Hot,Other,56679.76,313.39,102.0,12,721,Partner Referral-00000-422
+423,Web,Machinery,Unrated,Installation Partner,59107.29,500.56,232.5,12,267,Web-00000-423
+424,Partner Referral,Telecommunications,Cold,Prospect,41247.35,374.09,210.0,17,537,Partner Referral-00000-424
+425,Other,Telecommunications,Hot,Installation Partner,38918.15,284.16,196.5,14,742,Other-00000-425
+426,Purchased List,Construction,Cold,Installation Partner,58110.59,550.46,129.0,10,418,Purchased List-00000-426
+427,Web,Agriculture,Unrated,Installation Partner,52465.93,423.25,111.0,17,476,Web-00000-427
+428,Partner Referral,Construction,Cold,Prospect,4548.2,331.59,237.0,18,578,Partner Referral-00000-428
+429,Purchased List,Machinery,Cold,Other,64938.06,316.59,259.5,11,430,Purchased List-00000-429
+430,Other,Construction,Cold,Customer - Direct,40310.84,234.26,214.5,16,678,Other-00000-430
+431,Purchased List,Agriculture,Primer,Installation Partner,65700.98,34.37,237.0,13,595,Purchased List-00000-431
+432,Partner Referral,Construction,Hot,Prospect,59807.28,478.29,246.0,12,264,Partner Referral-00000-432
+433,Web,Construction,Cold,Customer - Channel,59125.85,154.34,160.5,21,113,Web-00000-433
+434,Partner Referral,Finance,Hot,Other,53774.04,250.34,151.5,14,698,Partner Referral-00000-434
+435,Web,Machinery,Primer,Other,33700.47,451.33,48.0,14,733,Web-00000-435
+436,Other,Agriculture,Warm,Prospect,52042.24,592.72,124.5,14,330,Other-00000-436
+437,Phone Inquiry,Finance,Warm,Customer - Channel,47753.75,275.54,286.5,12,584,Phone Inquiry-00000-437
+438,Other,Construction,Hot,Prospect,51487.42,22.99,268.5,17,508,Other-00000-438
+439,Other,Finance,Unrated,Installation Partner,55041.59,422.22,264.0,10,418,Other-00000-439
+440,Phone Inquiry,Construction,Cold,Customer - Direct,32628.13,566.4,228.0,16,250,Phone Inquiry-00000-440
+441,Purchased List,Finance,Cold,Customer - Direct,51685.27,445.24,196.5,18,198,Purchased List-00000-441
+442,Phone Inquiry,Finance,Hot,Customer - Channel,62961.49,14.37,142.5,13,718,Phone Inquiry-00000-442
+443,Purchased List,Construction,Unrated,Installation Partner,34739.04,153.11,300.0,19,420,Purchased List-00000-443
+444,Partner Referral,Agriculture,Warm,Prospect,32637.81,332.41,241.5,17,571,Partner Referral-00000-444
+445,Other,Finance,Unrated,Installation Partner,54790.84,352.12,39.0,11,735,Other-00000-445
+446,Other,Finance,Hot,Prospect,39474.5,407.93,250.5,15,499,Other-00000-446
+447,Web,Agriculture,Cold,Customer - Direct,63525.43,311.76,300.0,15,135,Web-00000-447
+448,Phone Inquiry,Telecommunications,Primer,Customer - Channel,9566.95,415.64,363.0,12,402,Phone Inquiry-00000-448
+449,Purchased List,Agriculture,Primer,Prospect,38928.51,545.24,115.5,18,262,Purchased List-00000-449
+450,Phone Inquiry,Finance,Cold,Installation Partner,17916.21,438.85,246.0,14,617,Phone Inquiry-00000-450
+451,Phone Inquiry,Finance,Unrated,Customer - Direct,50215.25,247.79,286.5,16,456,Phone Inquiry-00000-451
+452,Other,Agriculture,Cold,Installation Partner,3815.79,637.48,232.5,11,433,Other-00000-452
+453,Other,Construction,Warm,Prospect,48231.59,37.04,354.0,12,487,Other-00000-453
+454,Web,Machinery,Cold,Installation Partner,16896.31,211.98,412.5,16,44,Web-00000-454
+455,Phone Inquiry,Finance,Hot,Customer - Direct,61769.42,480.2,120.0,16,324,Phone Inquiry-00000-455
+456,Partner Referral,Finance,Warm,Installation Partner,60776.91,274.37,160.5,19,301,Partner Referral-00000-456
+457,Other,Telecommunications,Warm,Customer - Channel,64690.22,181.78,169.5,20,99,Other-00000-457
+458,Purchased List,Finance,Warm,Installation Partner,55220.79,13.89,241.5,20,286,Purchased List-00000-458
+459,Phone Inquiry,Construction,Unrated,Installation Partner,17528.94,354.41,250.5,18,556,Phone Inquiry-00000-459
+460,Other,Agriculture,Warm,Customer - Channel,81481.89,52.89,115.5,18,27,Other-00000-460
+461,Web,Telecommunications,Warm,Installation Partner,56280.11,504.88,178.5,14,367,Web-00000-461
+462,Partner Referral,Telecommunications,Unrated,Other,72788.32,401.08,214.5,11,282,Partner Referral-00000-462
+463,Purchased List,Machinery,Primer,Other,32576.56,431.43,259.5,15,524,Purchased List-00000-463
+464,Web,Agriculture,Warm,Installation Partner,16775.37,427.26,336.0,16,302,Web-00000-464
+465,Other,Machinery,Warm,Installation Partner,21586.37,465.74,291.0,16,407,Other-00000-465
+466,Partner Referral,Agriculture,Unrated,Customer - Direct,18938.81,399.33,403.5,13,43,Partner Referral-00000-466
+467,Other,Telecommunications,Cold,Other,41386.79,41.65,372.0,13,468,Other-00000-467
+468,Partner Referral,Machinery,Unrated,Customer - Channel,3716.71,433.41,408.0,11,99,Partner Referral-00000-468
+469,Other,Construction,Cold,Installation Partner,64051.55,352.29,156.0,17,388,Other-00000-469
+470,Web,Telecommunications,Primer,Other,33597.88,563.04,75.0,14,600,Web-00000-470
+471,Web,Telecommunications,Unrated,Prospect,58415.67,333.67,183.0,18,377,Web-00000-471
+472,Other,Machinery,Unrated,Prospect,6981.9,162.98,295.5,20,450,Other-00000-472
+473,Phone Inquiry,Agriculture,Hot,Other,55541.42,384.35,255.0,15,362,Phone Inquiry-00000-473
+474,Purchased List,Finance,Warm,Customer - Channel,60991.7,198.63,295.5,14,433,Purchased List-00000-474
+475,Phone Inquiry,Machinery,Cold,Customer - Direct,13422.6,535.54,340.5,13,175,Phone Inquiry-00000-475
+476,Other,Machinery,Cold,Other,20195.38,133.81,196.5,17,792,Other-00000-476
+477,Purchased List,Agriculture,Warm,Other,55373.05,213.95,43.5,16,714,Purchased List-00000-477
+478,Purchased List,Agriculture,Cold,Prospect,64900.1,527.62,142.5,10,340,Purchased List-00000-478
+479,Web,Finance,Cold,Prospect,21949.86,368.03,304.5,16,484,Web-00000-479
+480,Web,Agriculture,Cold,Prospect,18719.9,148.68,367.5,19,208,Web-00000-480
+481,Web,Construction,Primer,Installation Partner,65929.95,32.61,201.0,12,655,Web-00000-481
+482,Partner Referral,Telecommunications,Warm,Other,3106.06,381.58,178.5,22,146,Partner Referral-00000-482
+483,Purchased List,Construction,Hot,Customer - Channel,13243.84,338.15,300.0,14,637,Purchased List-00000-483
+484,Purchased List,Finance,Unrated,Prospect,81150.71,198.99,232.5,14,181,Purchased List-00000-484
+485,Other,Telecommunications,Unrated,Customer - Direct,58500.27,207.62,363.0,14,40,Other-00000-485
+486,Web,Telecommunications,Warm,Prospect,15541.21,414.58,300.0,11,612,Web-00000-486
+487,Partner Referral,Finance,Unrated,Customer - Channel,21482.47,413.44,187.5,13,744,Partner Referral-00000-487
+488,Purchased List,Finance,Hot,Customer - Channel,33099.4,478.38,219.0,19,234,Purchased List-00000-488
+489,Phone Inquiry,Machinery,Warm,Customer - Direct,46146.43,113.34,268.5,18,431,Phone Inquiry-00000-489
+490,Phone Inquiry,Telecommunications,Primer,Prospect,63703.68,21.08,75.0,17,641,Phone Inquiry-00000-490
+491,Web,Telecommunications,Warm,Installation Partner,24831.3,306.62,174.0,22,215,Web-00000-491
+492,Phone Inquiry,Machinery,Unrated,Installation Partner,52591.52,280.56,43.5,22,37,Phone Inquiry-00000-492
+493,Partner Referral,Telecommunications,Cold,Installation Partner,27722.43,314.84,300.0,11,653,Partner Referral-00000-493
+494,Purchased List,Agriculture,Primer,Other,43028.99,419.49,160.5,20,282,Purchased List-00000-494
+495,Phone Inquiry,Telecommunications,Primer,Prospect,23553.76,37.29,412.5,11,480,Phone Inquiry-00000-495
+496,Web,Machinery,Primer,Customer - Channel,55600.7,617.25,88.5,14,213,Web-00000-496
+497,Partner Referral,Finance,Cold,Customer - Channel,30687.68,470.67,129.0,13,703,Partner Referral-00000-497
+498,Partner Referral,Finance,Hot,Customer - Channel,46076.18,540.45,102.0,19,58,Partner Referral-00000-498
+499,Purchased List,Machinery,Cold,Prospect,62971.56,230.19,246.0,15,449,Purchased List-00000-499

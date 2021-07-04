@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Channels__c</fullName>
+    <externalId>false</externalId>
+    <label>Product Main Channel</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Partner</fullName>
+                <default>false</default>
+                <label>Partner</label>
+            </value>
+            <value>
+                <fullName>Retail</fullName>
+                <default>false</default>
+                <label>Retail</label>
+            </value>
+            <value>
+                <fullName>Own Stores</fullName>
+                <default>false</default>
+                <label>Own Stores</label>
+            </value>
+            <value>
+                <fullName>Website</fullName>
+                <default>false</default>
+                <label>Website</label>
+            </value>
+            <value>
+                <fullName>Community</fullName>
+                <default>false</default>
+                <label>Community</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

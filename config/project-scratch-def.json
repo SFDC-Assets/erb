@@ -1,5 +1,18 @@
 {
-  "orgName": "my company",
+  "orgName": "ERB Demo scratch org",
   "edition": "Developer",
-  "features": []
-}
+  "description": "Recommend Products to Accounts",
+  "language": "en",
+  "features": ["EinsteinRecommendationBuilder","EinsteinRecommendationBuilderMetadata", "EinsteinBuilder","EinsteinBuilderFree"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "enableAuditFieldsInactiveOwner":true
+    }
+   }
+  }

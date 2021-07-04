@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Brand__c</fullName>
+    <externalId>false</externalId>
+    <label>Product Brand</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Highlander</fullName>
+                <default>false</default>
+                <label>Highlander</label>
+            </value>
+            <value>
+                <fullName>Better Intensity</fullName>
+                <default>false</default>
+                <label>Better Intensity</label>
+            </value>
+            <value>
+                <fullName>ProQuipped</fullName>
+                <default>false</default>
+                <label>ProQuipped</label>
+            </value>
+            <value>
+                <fullName>Live4Good</fullName>
+                <default>false</default>
+                <label>Live4Good</label>
+            </value>
+            <value>
+                <fullName>StrikingGold</fullName>
+                <default>false</default>
+                <label>StrikingGold</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
