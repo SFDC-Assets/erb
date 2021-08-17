@@ -1,0 +1,8 @@
+
+[14:14:26.294] {"Running version":"4.4.2"}
+
+[14:14:26.316] [[Core Manifest]] Loading addon manifest ...
+[14:14:26.317] [[User Manifest]] Loading addon manifest ...
+[14:14:26.322][ERROR] Command initialization error: The source and the target could not be the same..
+[14:14:26.323] Execution of the command sfdmu:run has been finished. Exit code 2 (COMMAND_INITIALIZATION_ERROR).
+[14:14:26.324] Total time elapsed: 00h 00m 00s 035ms .

@@ -1,0 +1,101 @@
+Id,External_Id__c,Family,Color__c,Material__c,Product_Brand__c,Product_Channels__c,Annual_Production_Volume__c,Average_Margin__c,Batch_Size__c,Suggested_Retail_Price__c,Units_in_Stock__c,IsActive,ProductCode,Name
+01t6300000EFW4YAAX,1,Electronics,Silver,Alloy,StrikingGold,Community,7487,37.23,4500,131.67,2400,true,Electronics-Silver-StrikingGold-000-1,Electronics-Silver-StrikingGold
+01t6300000EFW4XAAX,0,Electronics,White,Fibre,StrikingGold,Retail,38183,54.34,3200,108.57,3000,true,Electronics-White-StrikingGold-000-0,Electronics-White-StrikingGold
+01t6300000EFW4ZAAX,2,Appliances,Teal,Acrylic,Better Intensity,Website,60697,31.65,4400,109.77,1700,true,Appliances-Teal-Better Intensity-000-2,Appliances-Teal-Better Intensity
+01t6300000EFW4aAAH,3,Outdoors,Gold,Fibre,Better Intensity,Community,26542,36.56,3800,115.76,4000,true,Outdoors-Gold-Better Intensity-000-3,Outdoors-Gold-Better Intensity
+01t6300000EFW4bAAH,4,Lightning,Gold,Acrylic,Live4Good,Website,7706,45.31,2300,133.8,4000,true,Lightning-Gold-Live4Good-000-4,Lightning-Gold-Live4Good
+01t6300000EFW4cAAH,5,Outdoors,Orange,PVC,ProQuipped,Own Stores,47646,43.95,3200,136.94,1100,true,Outdoors-Orange-ProQuipped-000-5,Outdoors-Orange-ProQuipped
+01t6300000EFW4dAAH,6,Appliances,Orange,PVC,Highlander,Partner,53904,35.04,1900,130.12,3800,true,Appliances-Orange-Highlander-000-6,Appliances-Orange-Highlander
+01t6300000EFW4eAAH,7,Appliances,Orange,Alloy,Highlander,Partner,82466,32.04,1000,128.2,1800,true,Appliances-Orange-Highlander-000-7,Appliances-Orange-Highlander
+01t6300000EFW4fAAH,8,Appliances,Orange,PVC,Highlander,Website,58546,41.08,3800,120.19,1300,true,Appliances-Orange-Highlander-000-8,Appliances-Orange-Highlander
+01t6300000EFW4gAAH,9,Outdoors,Orange,Fibre,Better Intensity,Retail,14465,18.51,4800,124.74,3400,true,Outdoors-Orange-Better Intensity-000-9,Outdoors-Orange-Better Intensity
+01t6300000EFW4hAAH,10,Lightning,Teal,PVC,Live4Good,Website,63532,17.03,3400,141.4,1000,true,Lightning-Teal-Live4Good-000-10,Lightning-Teal-Live4Good
+01t6300000EFW4iAAH,11,Appliances,Orange,Fibre,Highlander,Website,6558,12.27,2400,116.46,5600,true,Appliances-Orange-Highlander-000-11,Appliances-Orange-Highlander
+01t6300000EFW4jAAH,12,Appliances,Silver,Fibre,Live4Good,Retail,29985,15.32,3900,146.81,2600,true,Appliances-Silver-Live4Good-000-12,Appliances-Silver-Live4Good
+01t6300000EFW4kAAH,13,Appliances,Orange,PVC,Better Intensity,Own Stores,11766,11.8,3100,162.07,1600,true,Appliances-Orange-Better Intensity-000-13,Appliances-Orange-Better Intensity
+01t6300000EFW4lAAH,14,Outdoors,Teal,Alloy,Live4Good,Website,61110,32.32,1600,107.83,4400,true,Outdoors-Teal-Live4Good-000-14,Outdoors-Teal-Live4Good
+01t6300000EFW4mAAH,15,Outdoors,Silver,PVC,Better Intensity,Community,10721,56.87,1700,106.68,4200,true,Outdoors-Silver-Better Intensity-000-15,Outdoors-Silver-Better Intensity
+01t6300000EFW4nAAH,16,Electronics,White,Brass,Better Intensity,Own Stores,56776,17.65,3400,144.68,1800,true,Electronics-White-Better Intensity-000-16,Electronics-White-Better Intensity
+01t6300000EFW4oAAH,17,Appliances,White,PVC,Better Intensity,Own Stores,9220,24.05,2600,115.76,5400,true,Appliances-White-Better Intensity-000-17,Appliances-White-Better Intensity
+01t6300000EFW4pAAH,18,Outdoors,Orange,Alloy,StrikingGold,Partner,63768,42.26,1300,135.59,2200,true,Outdoors-Orange-StrikingGold-000-18,Outdoors-Orange-StrikingGold
+01t6300000EFW4qAAH,19,Electronics,Orange,Acrylic,Highlander,Own Stores,18327,21.22,5700,103.35,1500,true,Electronics-Orange-Highlander-000-19,Electronics-Orange-Highlander
+01t6300000EFW4rAAH,20,Appliances,White,PVC,Better Intensity,Own Stores,69859,26.16,2900,128.82,2700,true,Appliances-White-Better Intensity-000-20,Appliances-White-Better Intensity
+01t6300000EFW58AAH,37,Electronics,White,Acrylic,StrikingGold,Partner,54156,34.9,1100,137.71,3500,true,Electronics-White-StrikingGold-000-37,Electronics-White-StrikingGold
+01t6300000EFW59AAH,38,Lightning,White,Alloy,Live4Good,Website,13857,18.75,1500,157.84,3500,true,Lightning-White-Live4Good-000-38,Lightning-White-Live4Good
+01t6300000EFW5AAAX,39,Furniture,Silver,Alloy,Highlander,Own Stores,11310,23.08,5000,136.29,1000,true,Furniture-Silver-Highlander-000-39,Furniture-Silver-Highlander
+01t6300000EFW5BAAX,40,Appliances,Silver,PVC,Highlander,Own Stores,20913,43.82,4100,136,1200,true,Appliances-Silver-Highlander-000-40,Appliances-Silver-Highlander
+01t6300000EFW5CAAX,41,Outdoors,Orange,Brass,Live4Good,Own Stores,9017,46.86,3100,136.17,3200,true,Outdoors-Orange-Live4Good-000-41,Outdoors-Orange-Live4Good
+01t6300000EFW5DAAX,42,Electronics,Gold,Alloy,Highlander,Website,56631,38.68,4300,107.71,1200,true,Electronics-Gold-Highlander-000-42,Electronics-Gold-Highlander
+01t6300000EFW5EAAX,43,Lightning,Silver,PVC,StrikingGold,Partner,11454,59.63,2900,100.54,3500,true,Lightning-Silver-StrikingGold-000-43,Lightning-Silver-StrikingGold
+01t6300000EFW5FAAX,44,Outdoors,Silver,Alloy,StrikingGold,Community,47582,33.79,1300,130.55,4200,true,Outdoors-Silver-StrikingGold-000-44,Outdoors-Silver-StrikingGold
+01t6300000EFW5GAAX,45,Appliances,Orange,Alloy,Live4Good,Retail,23852,50.32,1200,107.06,4600,true,Appliances-Orange-Live4Good-000-45,Appliances-Orange-Live4Good
+01t6300000EFW5HAAX,46,Electronics,Teal,Alloy,StrikingGold,Partner,63888,38.91,1800,139.2,1900,true,Electronics-Teal-StrikingGold-000-46,Electronics-Teal-StrikingGold
+01t6300000EFW5IAAX,47,Electronics,Orange,Brass,StrikingGold,Website,68270,39.22,3100,106.72,2800,true,Electronics-Orange-StrikingGold-000-47,Electronics-Orange-StrikingGold
+01t6300000EFW5JAAX,48,Lightning,Silver,Alloy,Better Intensity,Website,61674,25.72,3600,110.07,3500,true,Lightning-Silver-Better Intensity-000-48,Lightning-Silver-Better Intensity
+01t6300000EFW54AAH,33,Furniture,Orange,Acrylic,StrikingGold,Own Stores,36497,38.95,3900,100.91,3700,true,Furniture-Orange-StrikingGold-000-33,Furniture-Orange-StrikingGold
+01t6300000EFW55AAH,34,Electronics,Teal,Acrylic,Highlander,Website,24804,9.46,3700,130.79,4400,true,Electronics-Teal-Highlander-000-34,Electronics-Teal-Highlander
+01t6300000EFW56AAH,35,Lightning,White,Acrylic,StrikingGold,Community,53488,9.07,3600,128.33,3600,true,Lightning-White-StrikingGold-000-35,Lightning-White-StrikingGold
+01t6300000EFW57AAH,36,Appliances,Teal,Fibre,Highlander,Own Stores,62534,46.67,1300,131.19,2300,true,Appliances-Teal-Highlander-000-36,Appliances-Teal-Highlander
+01t6300000EFW5VAAX,60,Furniture,Teal,Fibre,Better Intensity,Community,62434,58.88,1100,111.4,1300,true,Furniture-Teal-Better Intensity-000-60,Furniture-Teal-Better Intensity
+01t6300000EFW5WAAX,61,Outdoors,Orange,Brass,StrikingGold,Partner,13105,32.92,2400,133.79,4600,true,Outdoors-Orange-StrikingGold-000-61,Outdoors-Orange-StrikingGold
+01t6300000EFW5XAAX,62,Outdoors,White,Acrylic,Highlander,Partner,9188,25.66,5300,104.63,3000,true,Outdoors-White-Highlander-000-62,Outdoors-White-Highlander
+01t6300000EFW5YAAX,63,Lightning,Teal,Brass,Highlander,Website,56138,39.7,2300,130.35,3200,true,Lightning-Teal-Highlander-000-63,Lightning-Teal-Highlander
+01t6300000EFW61AAH,92,Furniture,Orange,PVC,ProQuipped,Partner,8970,42.68,2100,151.49,2700,true,Furniture-Orange-ProQuipped-000-92,Furniture-Orange-ProQuipped
+01t6300000EFW62AAH,93,Appliances,Gold,Alloy,StrikingGold,Community,23813,15.21,2900,144.28,4100,true,Appliances-Gold-StrikingGold-000-93,Appliances-Gold-StrikingGold
+01t6300000EFW63AAH,94,Appliances,White,PVC,Better Intensity,Website,80038,25.83,3000,114.63,2500,true,Appliances-White-Better Intensity-000-94,Appliances-White-Better Intensity
+01t6300000EFW64AAH,95,Appliances,Silver,Brass,ProQuipped,Website,36890,9.62,4200,134.33,3300,true,Appliances-Silver-ProQuipped-000-95,Appliances-Silver-ProQuipped
+01t6300000EFW65AAH,96,Lightning,Silver,Fibre,StrikingGold,Retail,61400,41.27,1500,141.27,1400,true,Lightning-Silver-StrikingGold-000-96,Lightning-Silver-StrikingGold
+01t6300000EFW66AAH,97,Electronics,Orange,Alloy,Live4Good,Own Stores,68969,45.51,1600,104.59,3100,true,Electronics-Orange-Live4Good-000-97,Electronics-Orange-Live4Good
+01t6300000EFW67AAH,98,Furniture,Silver,PVC,ProQuipped,Website,69137,14.88,2300,120.86,4000,true,Furniture-Silver-ProQuipped-000-98,Furniture-Silver-ProQuipped
+01t6300000EFW68AAH,99,Outdoors,Teal,Brass,Better Intensity,Website,47525,45.34,1900,129.85,3400,true,Outdoors-Teal-Better Intensity-000-99,Outdoors-Teal-Better Intensity
+01t6300000EFW5ZAAX,64,Furniture,Silver,PVC,Better Intensity,Website,6973,31.33,1200,149.85,3900,true,Furniture-Silver-Better Intensity-000-64,Furniture-Silver-Better Intensity
+01t6300000EFW5aAAH,65,Outdoors,Gold,Fibre,Highlander,Partner,67153,33.9,3600,116.2,2300,true,Outdoors-Gold-Highlander-000-65,Outdoors-Gold-Highlander
+01t6300000EFW5bAAH,66,Furniture,Gold,Acrylic,Better Intensity,Retail,49710,9.68,2400,148.1,3300,true,Furniture-Gold-Better Intensity-000-66,Furniture-Gold-Better Intensity
+01t6300000EFW5cAAH,67,Lightning,Silver,PVC,StrikingGold,Own Stores,79467,33.43,1500,123.68,2500,true,Lightning-Silver-StrikingGold-000-67,Lightning-Silver-StrikingGold
+01t6300000EFW5dAAH,68,Appliances,White,Acrylic,ProQuipped,Retail,68543,36.89,3200,109.43,2700,true,Appliances-White-ProQuipped-000-68,Appliances-White-ProQuipped
+01t6300000EFW5eAAH,69,Lightning,Gold,Acrylic,Live4Good,Own Stores,33272,43.84,2700,139.65,3000,true,Lightning-Gold-Live4Good-000-69,Lightning-Gold-Live4Good
+01t6300000EFW5fAAH,70,Lightning,Teal,Brass,Better Intensity,Own Stores,26429,54.95,2900,133.56,2200,true,Lightning-Teal-Better Intensity-000-70,Lightning-Teal-Better Intensity
+01t6300000EFW5gAAH,71,Outdoors,Silver,Acrylic,Highlander,Website,46970,49.02,3000,130.08,2100,true,Outdoors-Silver-Highlander-000-71,Outdoors-Silver-Highlander
+01t6300000EFW5hAAH,72,Appliances,White,Alloy,Better Intensity,Own Stores,52490,23.56,2100,141.61,3600,true,Appliances-White-Better Intensity-000-72,Appliances-White-Better Intensity
+01t6300000EFW5iAAH,73,Appliances,Silver,Alloy,Better Intensity,Retail,58499,46.2,2900,103.93,3100,true,Appliances-Silver-Better Intensity-000-73,Appliances-Silver-Better Intensity
+01t6300000EFW5jAAH,74,Appliances,Teal,Fibre,Live4Good,Own Stores,83512,22.26,2800,120.33,2100,true,Appliances-Teal-Live4Good-000-74,Appliances-Teal-Live4Good
+01t6300000EFW5kAAH,75,Furniture,Orange,Brass,Live4Good,Own Stores,86516,19.56,2400,102.69,2900,true,Furniture-Orange-Live4Good-000-75,Furniture-Orange-Live4Good
+01t6300000EFW5lAAH,76,Lightning,Gold,Acrylic,StrikingGold,Retail,52743,56.4,1100,130.46,1300,true,Lightning-Gold-StrikingGold-000-76,Lightning-Gold-StrikingGold
+01t6300000EFW5mAAH,77,Lightning,Gold,Acrylic,ProQuipped,Retail,53143,38.5,2500,136.37,2900,true,Lightning-Gold-ProQuipped-000-77,Lightning-Gold-ProQuipped
+01t6300000EFW5nAAH,78,Outdoors,White,Fibre,ProQuipped,Own Stores,17924,61.17,1100,113.58,3700,true,Outdoors-White-ProQuipped-000-78,Outdoors-White-ProQuipped
+01t6300000EFW5oAAH,79,Appliances,Gold,Fibre,StrikingGold,Own Stores,57574,18.85,2000,132.09,4100,true,Appliances-Gold-StrikingGold-000-79,Appliances-Gold-StrikingGold
+01t6300000EFW5pAAH,80,Electronics,White,Acrylic,ProQuipped,Own Stores,43494,38.16,3500,120.46,3600,true,Electronics-White-ProQuipped-000-80,Electronics-White-ProQuipped
+01t6300000EFW5qAAH,81,Appliances,Orange,Fibre,Better Intensity,Partner,48919,49.71,2700,129.14,2300,true,Appliances-Orange-Better Intensity-000-81,Appliances-Orange-Better Intensity
+01t6300000EFW5rAAH,82,Electronics,White,Acrylic,ProQuipped,Partner,19987,40.72,5000,101.89,2300,true,Electronics-White-ProQuipped-000-82,Electronics-White-ProQuipped
+01t6300000EFW5sAAH,83,Furniture,Teal,Brass,Highlander,Community,14116,31.25,4800,114.42,3400,true,Furniture-Teal-Highlander-000-83,Furniture-Teal-Highlander
+01t6300000EFW5tAAH,84,Lightning,Teal,PVC,Better Intensity,Retail,65853,14.02,2500,133.25,3500,true,Lightning-Teal-Better Intensity-000-84,Lightning-Teal-Better Intensity
+01t6300000EFW5uAAH,85,Furniture,Orange,PVC,StrikingGold,Website,47474,12.36,1300,161.35,1200,true,Furniture-Orange-StrikingGold-000-85,Furniture-Orange-StrikingGold
+01t6300000EFW5vAAH,86,Lightning,White,Brass,Better Intensity,Retail,29486,32.06,4200,141.9,1100,true,Lightning-White-Better Intensity-000-86,Lightning-White-Better Intensity
+01t6300000EFW5wAAH,87,Furniture,Orange,Brass,StrikingGold,Own Stores,17789,44.59,3700,113.17,3900,true,Furniture-Orange-StrikingGold-000-87,Furniture-Orange-StrikingGold
+01t6300000EFW5xAAH,88,Appliances,Silver,Alloy,Better Intensity,Partner,27154,5.62,3500,154.41,2400,true,Appliances-Silver-Better Intensity-000-88,Appliances-Silver-Better Intensity
+01t6300000EFW5yAAH,89,Electronics,Teal,Acrylic,Better Intensity,Retail,34321,35.34,3000,135.11,3700,true,Electronics-Teal-Better Intensity-000-89,Electronics-Teal-Better Intensity
+01t6300000EFW5zAAH,90,Electronics,White,PVC,ProQuipped,Partner,30642,56.38,2400,100.69,3700,true,Electronics-White-ProQuipped-000-90,Electronics-White-ProQuipped
+01t6300000EFW60AAH,91,Lightning,Orange,Brass,Live4Good,Retail,16929,26.07,1300,139.52,4700,true,Lightning-Orange-Live4Good-000-91,Lightning-Orange-Live4Good
+01t6300000EFW4sAAH,21,Furniture,Orange,Brass,Highlander,Website,16688,26.53,3600,143.14,3400,true,Furniture-Orange-Highlander-000-21,Furniture-Orange-Highlander
+01t6300000EFW4tAAH,22,Appliances,Orange,Fibre,StrikingGold,Own Stores,26286,40.66,2700,136.23,3700,true,Appliances-Orange-StrikingGold-000-22,Appliances-Orange-StrikingGold
+01t6300000EFW4uAAH,23,Lightning,Gold,Acrylic,Highlander,Website,32783,23.36,2800,144.57,3700,true,Lightning-Gold-Highlander-000-23,Lightning-Gold-Highlander
+01t6300000EFW4vAAH,24,Appliances,Orange,Alloy,Live4Good,Retail,22157,24.94,3400,131.7,4300,true,Appliances-Orange-Live4Good-000-24,Appliances-Orange-Live4Good
+01t6300000EFW4wAAH,25,Electronics,White,Brass,Live4Good,Community,28515,41.62,3700,141.67,1600,true,Electronics-White-Live4Good-000-25,Electronics-White-Live4Good
+01t6300000EFW4xAAH,26,Furniture,Gold,Acrylic,StrikingGold,Website,21280,41.19,3300,135.49,3300,true,Furniture-Gold-StrikingGold-000-26,Furniture-Gold-StrikingGold
+01t6300000EFW4yAAH,27,Furniture,Gold,Acrylic,ProQuipped,Website,11258,62.04,3600,107.66,2000,true,Furniture-Gold-ProQuipped-000-27,Furniture-Gold-ProQuipped
+01t6300000EFW4zAAH,28,Appliances,Orange,Fibre,ProQuipped,Website,21441,46.72,4200,117.74,2800,true,Appliances-Orange-ProQuipped-000-28,Appliances-Orange-ProQuipped
+01t6300000EFW50AAH,29,Lightning,Teal,Brass,Highlander,Community,55193,20.83,3400,122.08,3900,true,Lightning-Teal-Highlander-000-29,Lightning-Teal-Highlander
+01t6300000EFW51AAH,30,Lightning,Teal,Acrylic,Better Intensity,Retail,5674,42.05,1300,110.58,5200,true,Lightning-Teal-Better Intensity-000-30,Lightning-Teal-Better Intensity
+01t6300000EFW52AAH,31,Furniture,Teal,PVC,ProQuipped,Retail,71579,26.34,3100,126.05,2500,true,Furniture-Teal-ProQuipped-000-31,Furniture-Teal-ProQuipped
+01t6300000EFW53AAH,32,Appliances,Gold,Brass,Live4Good,Retail,47099,49,3300,127.98,1800,true,Appliances-Gold-Live4Good-000-32,Appliances-Gold-Live4Good
+01t6300000EFW5KAAX,49,Appliances,Silver,Acrylic,StrikingGold,Retail,60066,35.53,3800,101.54,2900,true,Appliances-Silver-StrikingGold-000-49,Appliances-Silver-StrikingGold
+01t6300000EFW5LAAX,50,Furniture,Orange,Fibre,StrikingGold,Retail,7098,39.02,2900,145.65,3200,true,Furniture-Orange-StrikingGold-000-50,Furniture-Orange-StrikingGold
+01t6300000EFW5MAAX,51,Appliances,Gold,Brass,Live4Good,Retail,3267,66,1700,101.83,3300,true,Appliances-Gold-Live4Good-000-51,Appliances-Gold-Live4Good
+01t6300000EFW5NAAX,52,Electronics,Teal,Acrylic,StrikingGold,Community,40885,42.59,1800,140.88,3200,true,Electronics-Teal-StrikingGold-000-52,Electronics-Teal-StrikingGold
+01t6300000EFW5OAAX,53,Furniture,Orange,PVC,StrikingGold,Community,54402,24.63,4200,132.95,1300,true,Furniture-Orange-StrikingGold-000-53,Furniture-Orange-StrikingGold
+01t6300000EFW5PAAX,54,Appliances,Teal,Brass,Highlander,Own Stores,38516,21.54,1600,135.75,4600,true,Appliances-Teal-Highlander-000-54,Appliances-Teal-Highlander
+01t6300000EFW5QAAX,55,Electronics,Silver,Brass,Better Intensity,Own Stores,73801,5.41,3200,127.58,2800,true,Electronics-Silver-Better Intensity-000-55,Electronics-Silver-Better Intensity
+01t6300000EFW5RAAX,56,Outdoors,Orange,PVC,Highlander,Retail,70249,32.24,3800,110.12,1900,true,Outdoors-Orange-Highlander-000-56,Outdoors-Orange-Highlander
+01t6300000EFW5SAAX,57,Electronics,Gold,Acrylic,StrikingGold,Own Stores,78570,26.66,3600,104.19,1700,true,Electronics-Gold-StrikingGold-000-57,Electronics-Gold-StrikingGold
+01t6300000EFW5TAAX,58,Furniture,Gold,Acrylic,StrikingGold,Partner,2770,69.81,2500,112.3,1800,true,Furniture-Gold-StrikingGold-000-58,Furniture-Gold-StrikingGold
+01t6300000EFW5UAAX,59,Lightning,Teal,Brass,StrikingGold,Retail,3870,37.63,1400,123.37,5100,true,Lightning-Teal-StrikingGold-000-59,Lightning-Teal-StrikingGold

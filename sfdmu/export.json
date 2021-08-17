@@ -1,0 +1,19 @@
+{
+    "objects": [
+        {
+            "query": "SELECT External_Id__c,AccountSource,Industry,Rating,Type,AnnualRevenue,Credit_Score__c,Days_Since_Last_Purchase__c,Transactions__c,NumberOfEmployees,Name FROM Account",
+            "operation": "Upsert",
+            "externalId": "External_Id__c"
+        },
+        {
+            "query": "SELECT External_Id__c,Family,Color__c,Material__c,Product_Brand__c,Product_Channels__c,Annual_Production_Volume__c,Average_Margin__c,Batch_Size__c,Suggested_Retail_Price__c,Units_in_Stock__c,IsActive,ProductCode,Name FROM Product2",
+            "operation": "Upsert",
+            "externalId": "External_Id__c"
+        },
+        {
+            "query": "SELECT External_Id__c,Customer_Account__r.External_Id__c,Product__r.External_Id__c FROM Purchase_History__c",
+            "operation": "Upsert",
+            "externalId": "External_Id__c"
+        }
+    ]
+}
