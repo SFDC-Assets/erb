@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 30 -s -w 5 --userprefix einstein -o recommender.workshop
+sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --userprefix einstein -o recommender.workshop
 sfdx force:source:push
 sfdx shane:user:password:set -g User -l User -p salesforce1
 
