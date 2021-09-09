@@ -1,5 +1,6 @@
 sfdx shane:org:create -f config/project-scratch-def.json -d 3 -s --userprefix einstein -o recommender.workshop
 sfdx force:source:push
+sfdx shane:user:permset:assign -l User -g User -n erb
 sfdx shane:user:password:set -g User -l User -p salesforce1
 
 sfdx automig:load -d ./automig
